@@ -1,1 +1,2 @@
-# Java-Project-03
+# Simple OTP Generator
+<p>Using only html,css and javascript</p>
